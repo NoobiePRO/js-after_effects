@@ -32,6 +32,7 @@ main{
     min-height: 17vh;
     margin-top: 2rem; 
     font-size: 150%;
+    padding: 1rem;
 }
 
 .btn-translate{
@@ -39,6 +40,7 @@ main{
     margin-top: 1.5rem;
     font-size: large;
     margin-bottom: 1.4rem;
+    /* overflow: scroll; */
 }
 
 .O-header{
