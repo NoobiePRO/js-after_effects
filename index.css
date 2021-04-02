@@ -16,7 +16,7 @@ header{
 h1{
     font-size: 350%;
     font-family: 'Akaya Telivigala', cursive;
-    color:rgb(58, 45, 25)
+    color:rgb(6, 34, 6);
 }
 header p{
     font-size: 125%;
@@ -116,3 +116,9 @@ footer{
     display: inline ;
 }
 
+.hero-heading{
+    text-align: center;
+    padding: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 280%;
+}

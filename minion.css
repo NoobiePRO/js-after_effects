@@ -16,7 +16,7 @@ header{
 h1{
     font-size: 350%;
     font-family: 'Akaya Telivigala', cursive;
-    color: rgb(58, 45, 25)
+    color: rgb(6, 34, 6);
 }
 header p{
     font-size: 125%;
@@ -76,7 +76,7 @@ footer{
 footer h2{
 margin-bottom: 0.7rem;
     font-size: 200%;
-    color:rgb(58, 45, 25);  
+    color:rgb(6, 34, 6);
     font-family: 'Akaya Telivigala', cursive;
 }
 
