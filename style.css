@@ -20,64 +20,10 @@ header p{
     font-family: 'Berkshire Swash', cursive;
     font-style: italic;
 }
-main{
-    margin: auto;
-    padding: 1rem;
-    max-width: 600px;
-}
-.txt-area{
-    width: 100%;
-    box-sizing: border-box;
-    display: block;
-    min-height: 17vh;
-    margin-top: 2rem; 
-    font-size: 150%;
-    padding: 1rem;
-}
 
-.btn-translate{
-    padding: 0.7rem 1.7rem;
-    margin-top: 1.5rem;
-    font-size: large;
-    margin-bottom: 1.4rem;
-    /* overflow: scroll; */
-}
-
-.O-header{
-    font-size: 125%;
-    text-align: center;
-}
-
-.output{
-    margin-top: 0.1rem;
-    border: 2px solid;
-    padding: 2rem;
-    box-sizing:  border-box;
-    overflow: scroll;
-    min-height: 15vh;
-    margin-bottom: 2rem;
-}
-
-footer{
-   
-    position: fixed;
-    text-align: center;
-    bottom:0;
-    width: 100%;
-    background-color: rgb(201, 228, 48);
-   padding: 0.8rem;
-   padding-bottom: 1.5rem;
-  
-}
-footer h2{
-margin-bottom: 0.7rem;
-    font-size: 200%;
-    font-family: 'Akaya Telivigala', cursive;
-}
-
-footer p{
-    font-size: 125%;
-    font-family: 'Berkshire Swash', cursive;
-    font-style: italic;
-
+img{
+    margin-left: 3rem;
+    width:200px;
+    height: 200px;
+    border: solid;
 }
