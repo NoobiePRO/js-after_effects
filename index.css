@@ -7,13 +7,16 @@
 }
 
 header{
-    background-color: rgb(201, 228, 48);
+    background-color: #059669;
+    color:beige;
     padding: 2rem;
+    border-bottom-left-radius: 2rem;
     text-align: center;
 }
 h1{
     font-size: 350%;
     font-family: 'Akaya Telivigala', cursive;
+    color:rgb(58, 45, 25)
 }
 header p{
     font-size: 125%;
@@ -34,9 +37,10 @@ img{
 
 }
 #blocks{
-   
+   border-radius: 1rem;
+   padding: 0.2rem;
     margin-left: 2rem;
-    border: solid rgb(173, 197, 34) 1.2px;
+    border: solid rgb(223, 223, 181) 1.2px;
     width: 350px;
     height: 530px;
     box-sizing: border-box;
@@ -65,5 +69,50 @@ img{
     margin: 2.5rem 4.0rem;
 }
 
+.iin_div ol{
+    display: inline-block;
+    list-style: none;
+    margin: 0 12rem;
+}
 
+
+
+footer{
+    background-color: #059669;
+    padding: 2rem;
+}
+
+
+
+
+.lefty{
+   text-decoration: none;
+}
+
+.righty{
+    
+}
+
+.about{
+    text-decoration: none;
+    color:black;
+}
+
+.a_head{
+    font-size: 25px;
+    padding-bottom: 2rem;
+    color: rgb(6, 34, 6);
+    font-weight: bold;
+
+}
+.a_p{
+    font-size: 17px;
+    margin-top: 0.3rem;
+    color: beige;
+    
+}
+
+.image li{
+    display: inline ;
+}
 
