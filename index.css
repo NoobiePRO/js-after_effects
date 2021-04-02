@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+*{
+    margin:0;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color: rgb(201, 228, 48);
+    padding: 2rem;
+    text-align: center;
+}
+h1{
+    font-size: 350%;
+    font-family: 'Akaya Telivigala', cursive;
+}
+header p{
+    font-size: 125%;
+    font-family: 'Berkshire Swash', cursive;
+    font-style: italic;
+}
+
+img{
+    /* margin-left: 3rem; */
+    width:340px;
+    padding: 0rem;
+    height: 300px;
+    /* border: solid; */
+    padding-left: 0rem;
+}
+#were{
+    padding:0;
+
+}
+#blocks{
+   
+    margin-left: 2rem;
+    border: solid rgb(173, 197, 34) 1.2px;
+    width: 350px;
+    height: 530px;
+    box-sizing: border-box;
+}
+#i-text{
+    padding-left: 1rem;
+}
+
+.i-head{
+    font-size: 180%;
+    margin-bottom: 0.7rem;
+}
+
+.i-para{
+    font-size: 120%;
+    padding-right: 1rem;
+}
+
+.nobullets{
+    list-style: none;
+}
+
+#in_div li{
+    margin-top: 5rem;
+    display: inline-block;
+    margin: 2.5rem 4.0rem;
+}
+
+
+

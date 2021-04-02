@@ -79,5 +79,7 @@ footer p{
     font-size: 125%;
     font-family: 'Berkshire Swash', cursive;
     font-style: italic;
+    text-align: center;
+    margin: 0 15rem;
 
 }
